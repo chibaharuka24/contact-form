@@ -1,0 +1,19 @@
+h2 {
+    text-align: center;
+}
+
+.contact-form_name {
+    display: flex;
+}
+
+.contact-form_email {
+    display: flex;
+}
+
+.contact-form_tel {
+    display: flex;
+}
+
+.contact-form_content {
+    display: flex;
+}
